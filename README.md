@@ -1,3 +1,6 @@
+# ReactCounter
+This project showcases my fundamental understanding of React components and how they can be used to effectively build a website.
+
 ## How to Run
 
 In the project directory, you can run:
